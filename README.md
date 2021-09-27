@@ -1,12 +1,12 @@
 # TodoAPI
-#Todo List Django web API with a React Frontend
-##Useful things I learned:
-  *How to make a simple Django API from scratch
-  *Differences between traditional Django and Django REST framework
-  *Importance of CORS headers (middleware/security)
-  *Writing simple tests
-  *How to create a frontend with React.js
-  *Making HTTP requests using Axios from frontend side
+#Todo List Django web API with a React Frontend <br />
+##Useful things I learned: <br />
+  *How to make a simple Django API from scratch <br />
+  *Differences between traditional Django and Django REST framework <br />
+  *Importance of CORS headers (middleware/security) <br />
+  *Writing simple tests <br /> 
+  *How to create a frontend with React.js <br />
+  *Making HTTP requests using Axios from frontend side <br />
   
 
 
