@@ -1,6 +1,6 @@
-# TodoAPI
-#Todo List Django web API with a React Frontend <br />
-##Useful things I learned: <br />
+# TodoAPI <br />
+(Todo List Django web API with a React Frontend) <br />
+**Useful things I learned: <br />**
  &nbsp; *How to make a simple Django API from scratch <br />
  &nbsp;*Differences between traditional Django and Django REST framework <br />
  &nbsp; *Importance of CORS headers (middleware/security) <br />
